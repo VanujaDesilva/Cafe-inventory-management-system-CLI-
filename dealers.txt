@@ -1,0 +1,7 @@
+     Dealer Code    ||     Dealer Name    ||     Contact Num       ||          Location            ||
+        001         ||     Amal           ||      0714565444       ||         Piliyandala          ||
+        002         ||     Ramesh         ||      0774564846       ||         Maharagama           ||
+   	  003         ||     Nimal          ||      0786423333       ||         Dehiwala             ||
+	  004         ||     Indunil        ||      0729486562       ||         Rathmalaana          ||
+        005         ||     Namal          ||      0705982355       ||         Dehiaththakandiya    ||
+        006         ||     Suranga        ||      0784626984       ||         Horowpathaana        ||

@@ -1,0 +1,4 @@
+     Item Code      ||     Item Name      ||     Item Brand     ||          Item Price          ||  Item Quantities   ||        Category         ||   Purchased Date   ||
+        003         ||    Router max 3    ||      Huwawei       ||            20000             ||         10         ||         Routers         ||     2023/02/12     ||
+        001         ||    Airpods pro     ||       Apple        ||            650000            ||         20         ||        Earphones        ||     2023/02/21     ||
+        002         ||   Rog astrix 15    ||        Asus        ||            15000             ||         30         ||          Mouse          ||     2023/03/20     ||

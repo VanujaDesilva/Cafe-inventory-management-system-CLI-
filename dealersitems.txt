@@ -1,0 +1,19 @@
+     Dealer Name     ||      Item Name     ||       Brand        ||             Price            ||          Quantity       ||
+         Amal        ||     H15 Keyboard   ||      Logitec       ||             4500             ||             10          ||
+        Ramesh       ||     ROG Keyboard   ||       Asus         ||            10000             ||             8           ||
+   	  Nimal        ||   ROG Hyper mouse  ||       Asus         ||            18000             ||             10          ||
+	 Indunil       ||    Gaming mouse 5  ||      Logictec      ||             6000             ||             15          ||
+        Namal        ||     i5 11K         ||       intel        ||            40000             ||             5           ||
+       Suranga       ||     Ryzon 5        ||        AMD         ||            45000             ||             4           ||
+        Amal         ||   Astrix 5 mouse   ||       Asus         ||            25000             ||             10          ||
+       Ramesh        ||    beats headset   ||       beats        ||            14000             ||             5           ||
+   	  Nimal        ||     H15 Keyboard   ||      Logitec       ||             5000             ||             15          ||
+	 Indunil       ||   ROG Hyper mouse  ||       Asus         ||            18000             ||             10          ||
+        Namal        ||     Ryzon 7        ||       AMD          ||            65000             ||             50          ||
+       Suranga       ||    Cosair 450V     ||       Cosair       ||            16000             ||             10          ||
+        Amal         ||     Fury 8GB       ||       Hyper        ||            10000             ||             10          ||
+       Ramesh        ||     i5 10th gen    ||       intel        ||            35000             ||             12          ||
+   	  Nimal        ||   Astrix 5 mouse   ||       Asus         ||            25000             ||             10          ||
+	 Indunil       ||     Ryzon 7        ||       AMD          ||            64000             ||             13          ||
+        Namal        ||   Astrix 5 mouse   ||       Asus         ||            26000             ||             15          ||
+       Suranga       ||    beats headset   ||       beats        ||            13000             ||             10          ||
